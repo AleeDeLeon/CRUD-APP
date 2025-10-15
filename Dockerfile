@@ -1,7 +1,7 @@
 FROM php:8.2-apache
 
-# Instalar mysqli
+# mysqli
 RUN docker-php-ext-install mysqli
 
-# Activar mod_rewrite si quieres usar URLs bonitas (opcional)
+# Activar mod_rewrite
 RUN a2enmod rewrite
