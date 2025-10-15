@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   web:
-    build: ./  # <- usa nuestro Dockerfile
+    build: ./  # <- Dockerfile
     container_name: php_container
     ports:
       - "8080:80"
