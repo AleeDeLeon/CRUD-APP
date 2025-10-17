@@ -10,7 +10,7 @@ $resultado = $conn->query("SELECT * FROM usuarios");
     <title>Ver Usuarios</title>
     <style>
         body {
-            background-color: #FFD6E0; /* rosita clarito */
+            background-color: #FFD6E0; 
             font-family: Arial, sans-serif;
             text-align: center;
             padding: 30px;
