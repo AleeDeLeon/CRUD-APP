@@ -5,7 +5,7 @@
     <title>CRUD en Docker - Ale</title>
     <style>
         body {
-            background-color: #FFC0CB; /* rosita cute */
+            background-color: #FFC0CB; 
             font-family: Arial, sans-serif;
             display: flex;
             justify-content: center;
